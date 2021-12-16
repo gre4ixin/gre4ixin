@@ -2,7 +2,7 @@
 ```swift 
 let name = "Pavel"
 let languageLocale = "Ru"
-let favouriteProgrammLanguage = "Swift"
+let favouriteProgramLanguage = "Swift"
 let job = "iOS Developer 💻"
 ```
 
