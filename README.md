@@ -17,6 +17,7 @@
   <a href="#"><img alt="UIKit" src="https://img.shields.io/badge/-UIKit-FFFFFF?logo=Apple&logoColor=black"></a>
   <a href="#"><img alt="SnapKit" src="https://img.shields.io/badge/-SnapKit-0078d7?logo=ObjectiveC&logoColor=orange"></a>
   <a href="#"><img alt="RxSwift" src="https://img.shields.io/badge/-RxSwift-FFFFFF?logo=ReactiveX&logoColor=purple"></a>
+  <a href="#"><img alt="RxCocoa" src="https://img.shields.io/badge/-RxCocoa-FFFFFF?logo=ReactiveX&logoColor=purple"></a>
   <a href="#"><img alt="Combine" src="https://img.shields.io/badge/-Combine-FFFFFF?logo=Apple&logoColor=black"></a>
 </p>
 
