@@ -37,6 +37,11 @@
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
 
+### Contact with me
+<p>
+  <a href="t.me/gre4ixin"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-FFFFFF?logo=Telegram&logoColor=white"</a>
+</p>
+
 <div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gre4ixin&theme=tokyonight)](https://github.com/gre4ixin/github-readme-stats)
