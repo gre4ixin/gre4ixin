@@ -9,7 +9,6 @@
   <a href="#"><img alt="Swift" src="https://img.shields.io/badge/-Swift-FFFFFF?logo=Swift&logoColor=orange"></a>
   <a href="#"><img alt="Objective-C" src="https://img.shields.io/badge/-ObjectiveC-FFFFFF?logo=Apple&logoColor=black"></a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
@@ -35,11 +34,13 @@
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 </p>
 
-### Contact with me
+### 📨 Contact with me
 <p>
   <a href="https://t.me/gre4ixin"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-FFFFFF?logo=Telegram&logoColor=white"</a>
+  <a href="https://www.linkedin.com/in/pavel-grechikhin"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-FFFFFF?logo=Telegram&logoColor=white"</a>
 </p>
 
 <div align="center">
