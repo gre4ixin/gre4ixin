@@ -15,7 +15,7 @@
 ### 🧰 Frameworks and libraries
 <p>
   <a href="#"><img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-FFFFFF?logo=Swift&logoColor=blue"></a>
-  <a href="#"><img alt="UIKit" src="https://img.shields.io/badge/-UIKit-FFFFFF?logo=UIKit&logoColor=orange"></a>
+  <a href="#"><img alt="UIKit" src="https://img.shields.io/badge/-UIKit-FFFFFF?logo=Apple&logoColor=black"></a>
   <a href="#"><img alt="SnapKit" src="https://img.shields.io/badge/-SnapKit-0078d7?logo=ObjectiveC&logoColor=orange"></a>
   <a href="#"><img alt="RxSwift" src="https://img.shields.io/badge/-RxSwift-FFFFFF?logo=ReactiveX&logoColor=purple"></a>
   <a href="#"><img alt="Combine" src="https://img.shields.io/badge/-Combine-FFFFFF?logo=Apple&logoColor=black"></a>
@@ -37,7 +37,9 @@
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
 
-<!-- <h3 align="center"> -->
+<div align="center">
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gre4ixin&theme=tokyonight)](https://github.com/gre4ixin/github-readme-stats)
   [![Pavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gre4ixin&show_icons=true&theme=tokyonight)](https://github.com/gre4ixin/github-readme-stats)
-<!-- </h3> -->
+  
+</div>
