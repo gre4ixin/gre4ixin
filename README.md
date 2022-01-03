@@ -40,7 +40,7 @@
 ### 📨 Contact with me
 <p>
   <a href="https://t.me/gre4ixin"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-FFFFFF?logo=Telegram&logoColor=white"</a>
-  <a href="https://www.linkedin.com/in/pavel-grechikhin"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-FFFFFF?logo=Telegram&logoColor=white"</a>
+  <a href="https://www.linkedin.com/in/pavel-grechikhin"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-FFFFFF?logo=LinkedIn&logoColor=blue"</a>
 </p>
 
 <div align="center">
