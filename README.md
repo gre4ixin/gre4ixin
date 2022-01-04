@@ -11,6 +11,8 @@
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 </p>
 
+#
+
 ### 🧰 Frameworks and libraries
 <p>
   <a href="#"><img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-FFFFFF?logo=Swift&logoColor=blue"></a>
@@ -21,11 +23,15 @@
   <a href="#"><img alt="Combine" src="https://img.shields.io/badge/-Combine-FFFFFF?logo=Apple&logoColor=black"></a>
 </p>
 
+#
+
 ### 🗄️ Database
 <p>
   <a href="#"><img alt="Realm" src ="https://img.shields.io/badge/Realm-4ea94b.svg?logo=Realm&logoColor=white"></a>
   <a href="#"><img alt="CoreData" src="https://img.shields.io/badge/-CoreData-FFFFFF?logo=Apple&logoColor=black"></a>
 </p>
+
+#
 
 ### 💻 Software and tools
 <p>
@@ -38,11 +44,15 @@
   <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 </p>
 
+#
+
 ### 📨 Contact with me
 <p>
   <a href="https://t.me/gre4ixin"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-FFFFFF?logo=Telegram&logoColor=white"</a>
   <a href="https://www.linkedin.com/in/pavel-grechikhin"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-FFFFFF?logo=LinkedIn&logoColor=blue"</a>
 </p>
+    
+#
 
 <div align="center">
   
