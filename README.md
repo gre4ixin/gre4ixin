@@ -21,6 +21,7 @@
   <a href="#"><img alt="RxSwift" src="https://img.shields.io/badge/-RxSwift-FFFFFF?logo=ReactiveX&logoColor=purple"></a>
   <a href="#"><img alt="RxCocoa" src="https://img.shields.io/badge/-RxCocoa-FFFFFF?logo=ReactiveX&logoColor=purple"></a>
   <a href="#"><img alt="Combine" src="https://img.shields.io/badge/-Combine-FFFFFF?logo=Apple&logoColor=black"></a>
+  <a href="#"><img alt="Combine" src="https://img.shields.io/badge/-Redux-764ABC?logo=Redux&logoColor=black"></a>
 </p>
 
 #
