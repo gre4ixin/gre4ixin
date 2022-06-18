@@ -48,9 +48,11 @@
 #
 
 ### 🔧 My open source projects
-
-<a href="https://github.com/AsyncSwift/AsyncLocationKit"><img alt="Async Location" src=""</a>
-
+<p>
+  <a href="https://github.com/AsyncSwift/AsyncLocationKit"><img alt="Async Location" src="https://img.shields.io/badge/AsyncLocationKit%20%F0%9F%93%8D-v1.5.0-green"</a>
+  <a href="https://github.com/gre4ixin/ReduxUI"><img alt="ReduxUI" src="https://img.shields.io/badge/%F0%9F%92%8E%20ReduxUI-v1.0.0-blue"</a>
+</p>
+  
 #
 
 ### 📨 Contact with me
