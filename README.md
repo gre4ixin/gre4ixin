@@ -31,6 +31,7 @@
 <p>
   <a href="#"><img alt="Realm" src ="https://img.shields.io/badge/Realm-4ea94b.svg?logo=Realm&logoColor=white"></a>
   <a href="#"><img alt="CoreData" src="https://img.shields.io/badge/-CoreData-FFFFFF?logo=Apple&logoColor=black"></a>
+  <a href="#"><img alt="SwiftData" src="https://img.shields.io/badge/-SwiftData-FFFFFF?logo=Swift&logoColor=blue"></a>
 </p>
 
 #
