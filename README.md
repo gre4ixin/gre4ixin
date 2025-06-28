@@ -9,7 +9,6 @@
   <a href="#"><img alt="Swift" src="https://img.shields.io/badge/-Swift-FFFFFF?logo=Swift&logoColor=orange"></a>
   <a href="#"><img alt="Objective-C" src="https://img.shields.io/badge/-ObjectiveC-FFFFFF?logo=Apple&logoColor=black"></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-  <a href="#"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=rust"></a>
 </p>
 
 #
